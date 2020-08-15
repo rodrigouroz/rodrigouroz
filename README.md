@@ -16,7 +16,7 @@ I love using computers to solve problems and to advance as a society. I feel pas
 
 Try it out! I wanted to test Next.js and Vercel and I came with the idea of having a tool that I find handy each time a global team is doing a planning session.
 
-🌱 I’m currently learning Apollo and GraphQL in general. I also recently started doing challenges in hackerrank, I like being challenged 😄
+🌱 I’m currently learning Apollo and GraphQL in general. I also recently started doing challenges in [hackerrank](https://www.hackerrank.com/rodrigouroz), I like being challenged 😄
 
 📫 How to reach me: rodrigouroz@gmail.com, [@rodrigouroz](https://twitter.com/rodrigouroz), [LinkedIn](https://www.linkedin.com/in/rodrigouroz/)
 
