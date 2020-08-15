@@ -24,6 +24,10 @@ Try it out! I wanted to test Next.js and Vercel and I came with the idea of havi
 
 ⚡ Fun facts: I love playing videogames, something I started doing with my daugher recently and when she's old enough I'll teach her how to code because I truly believe coding is the language of the future. I also play the piano, I started a few years ago and I love it.
 
+And always remember:
+
+![Jim](https://github.com/rodrigouroz/rodrigouroz.github.io/blob/master/img/jim.jpg?raw=true)
+
 <!--
 **rodrigouroz/rodrigouroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
