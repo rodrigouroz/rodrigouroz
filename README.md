@@ -20,6 +20,8 @@ Try it out! I wanted to test Next.js and Vercel and I came with the idea of havi
 
 📫 How to reach me: rodrigouroz@gmail.com, [@rodrigouroz](https://twitter.com/rodrigouroz), [LinkedIn](https://www.linkedin.com/in/rodrigouroz/)
 
+✉️ Check my notes on collected notes: https://collectednotes.com/rodrigouroz
+
 ⚡ Fun facts: I love playing videogames, something I started doing with my daugher recently and when she's old enough I'll teach her how to code because I truly believe coding is the language of the future. I also play the piano, I started a few years ago and I love it.
 
 <!--
