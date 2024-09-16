@@ -7,7 +7,7 @@ SOAP to REST and now GraphQL.
 
 Since then I haven't stopped working in IT, taking different roles.
 
-I love using computers to solve problems and to advance as a society. I feel passion in building software, I understood that when I shifted to an Engineering Manager role and still felt the urge to keep coding. I recently started working in https://askholidays.vercel.app as a mean to keep at it.
+I love using computers to solve problems and to advance as a society. I feel passion in building software, I understood that when I shifted to an Engineering Manager role and still felt the urge to keep coding.
 
 🔭 I’m currently working on https://sepame.net, a site that processes over 15M records of products in Argentina and index them to be easily searched and compared by location and price.
 
