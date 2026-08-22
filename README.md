@@ -1,11 +1,12 @@
 ### Hey 👋
 
-I'm Rodrigo — software engineer with 25+ years of experience, currently focused on **AI agents**, **iOS development**, and **open-source tools**.
+I'm Rodrigo — a software engineer with 25+ years of experience, building independent products around human connection, financial clarity, and shared play.
 
 #### 🔭 What I'm building
 
-- **[Lumina](https://apps.apple.com/us/app/lumina-your-second-brain/id6754854017)** — A privacy-first, on-device second brain for iOS. Local LLM, knowledge graph, voice & OCR capture. No cloud, no tracking. Built with Swift.
-- Contributing to **[OpenClaw](https://github.com/openclaw/openclaw)** — open-source AI agent platform.
+- **[Coro](https://coro.world)** — A global public square for conversations across languages — without rooms, topics, channels, or follower graphs.
+- **[Traza](https://traza.rodrigouroz.com)** — A read-only view of your financial life that turns activity across currencies into a clear story of income, spending, transfers, and investments.
+- **[Jacara](https://jacara.rodrigouroz.com)** — Shared adventures for families to play together — choose one, turn up the volume, and make a little room.
 
 #### 💼 Currently
 
@@ -13,13 +14,13 @@ Software Engineer at **[ClassDojo](https://www.classdojo.com)** — building too
 
 #### 🧰 What I work with
 
-Swift · TypeScript · Node.js · React · Python · On-device LLMs · Home Automation · Infrastructure
+TypeScript · React · Node.js · Python · AI agents · Cloudflare Workers · Home Automation · Infrastructure
 
 #### 🛤️ Background
 
 25+ years shipping software — from IC to Engineering Manager and back. I've been through SOAP → REST → GraphQL, jQuery → React, monoliths → microservices → back to pragmatism.
 
-I believe the best software respects your privacy and runs where your data lives.
+I believe the best software is clear, useful, privacy-conscious, and built around people — not technology for its own sake.
 
 #### 📫 Reach me
 
