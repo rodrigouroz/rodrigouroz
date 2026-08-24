@@ -6,6 +6,7 @@ I'm Rodrigo — a software engineer with 25+ years of experience, building indep
 
 - **[Coro](https://coro.world)** — A global public square for conversations across languages — without rooms, topics, channels, or follower graphs.
 - **[Traza](https://traza.rodrigouroz.com)** — A read-only view of your financial life that turns activity across currencies into a clear story of income, spending, transfers, and investments.
+- **Ballast** — An assumptions-first portfolio scenario lab for comparing modeled outcomes, risks, and contribution plans — without predicting markets or placing trades.
 - **[Jacara](https://jacara.rodrigouroz.com)** — Shared adventures for families to play together — choose one, turn up the volume, and make a little room.
 
 #### 💼 Currently
