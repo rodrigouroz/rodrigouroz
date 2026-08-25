@@ -1,28 +1,32 @@
 ### Hey 👋
 
-I'm Rodrigo — a software engineer with 25+ years of experience, building independent products around human connection, financial clarity, and shared play.
+I'm Rodrigo — a software engineer and product builder with 25+ years of experience turning ambiguous problems into software that works.
 
-#### 🔭 What I'm building
-
-- **[Coro](https://coro.world)** — A global public square for conversations across languages — without rooms, topics, channels, or follower graphs.
-- **[Traza](https://traza.rodrigouroz.com)** — A read-only view of your financial life that turns activity across currencies into a clear story of income, spending, transfers, and investments.
-- **[Ballast](https://ballast-dashboard.pages.dev)** — An assumptions-first portfolio scenario lab for comparing modeled outcomes, risks, and contribution plans — without predicting markets or placing trades.
-- **[Jacara](https://jacara.rodrigouroz.com)** — Shared adventures for families to play together — choose one, turn up the volume, and make a little room.
+**[Ask Rodrigo →](https://rodrigouroz.com)** — my interactive résumé. Read the CV, download it, or ask about my experience, projects, and technical background in English or Spanish.
 
 #### 💼 Currently
 
-Software Engineer at **[ClassDojo](https://www.classdojo.com)** — building tools that connect teachers, kids, and families.
+Fullstack Software Engineer at **[ClassDojo](https://www.classdojo.com)** since 2022 — working on TypeScript platform modernization, product integrations, LLM features, AWS, Kubernetes, and developer experience.
+
+#### 🛤️ Professional background
+
+I've worked as an individual contributor, Tech Lead, Lead Software Engineer, Senior Engineering Manager, Head of Development, and Project Manager.
+
+My work spans product definition, domain modeling, architecture, implementation, deployment, team building, and iteration. I've built software professionally since 2000 and worked globally in English and Spanish for more than a decade.
 
 #### 🧰 What I work with
 
-TypeScript · React · Node.js · Python · AI agents · Cloudflare Workers · Home Automation · Infrastructure
+TypeScript · React · Node.js · PHP · Java · C# · Rails · AWS · Kubernetes · Cloudflare Workers · PostgreSQL · LLM features · Langfuse · AI models, orchestrators, and agent skills
 
-#### 🛤️ Background
+#### 🔭 Selected independent products
 
-25+ years shipping software — from IC to Engineering Manager and back. I've been through SOAP → REST → GraphQL, jQuery → React, monoliths → microservices → back to pragmatism.
+- **[Coro](https://coro.world)** — Global conversations across languages.
+- **[Traza](https://traza.rodrigouroz.com)** — A traceable story of financial activity.
+- **[Ballast](https://ballast-dashboard.pages.dev)** — Inspectable portfolio scenarios.
+- **[Jacara](https://jacara.rodrigouroz.com)** — Physical-first family games.
 
-I believe the best software is clear, useful, privacy-conscious, and built around people — not technology for its own sake.
+I designed and built each of these end to end as a way to explore product, technical, and domain problems.
 
 #### 📫 Reach me
 
-[Email](mailto:rodrigouroz@gmail.com) · [Twitter/X](https://twitter.com/rodrigouroz) · [LinkedIn](https://linkedin.com/in/rodrigouroz)
+[Ask Rodrigo](https://rodrigouroz.com) · [Email](mailto:hello@rodrigouroz.com) · [LinkedIn](https://linkedin.com/in/rodrigouroz) · [Twitter/X](https://twitter.com/rodrigouroz)
